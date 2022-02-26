@@ -16,6 +16,6 @@ fun main() {
     }
 }
 fun pMeter(name: String, age: Int): String {
-    var word = "Hi my name is $name $age years old"
+    var word = "Hi, my name is $name and I am $age years old"
     return word
 }
